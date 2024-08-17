@@ -5,4 +5,4 @@ Questo progetto è stato realizzato per l'esame di Basi di Dati. Il progetto con
 In particolare:
 - in [BD.sql](./BD.sql) oltre alla creazione delle tabelle, sono implementate le operazioni che possono essere effettuate sulla base dati
 - in [Inserimenti.sql](./Inserimenti.sql) è contenuto il codice per l'inizializzazione del database
-- il file [Presentazione BD.pdf](./Presentazione\BD.pdf) è una presentazione del progetto in cui viene descritto il problema, vengono illustrti i vincoli e le operazioni implementate e sono presentati gli schemi logici e concettuali
+- il file [Presentazione BD.pdf](./Presentazione%20BD.pdf) è una presentazione del progetto in cui viene descritto il problema, vengono illustrti i vincoli e le operazioni implementate e sono presentati gli schemi logici e concettuali
